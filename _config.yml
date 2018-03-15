@@ -53,11 +53,11 @@ theme_settings:
   
   
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on: "Síguenos en"
+  str_rss_follow: "Sigue el feed RSS"
   str_email: "Email"
   str_next_post: "Siguiente post"
-  str_previous_post: "Anterior post"
+  str_previous_post: "Post Anterior"
   str_next_page: "Siguiente"
   str_previous_page: "Anterior"
   str_continue_reading: "Continuar leyendo"
