@@ -9,7 +9,7 @@ theme_settings:
   avatar: #assets/img/triangle.svg
   favicon: #assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Un blog de bioantropologia" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -27,7 +27,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "FalangesDistales"
   google_plus:
   instagram:
   keybase:
@@ -38,7 +38,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: # "twitter username"
+  twitter: @Fdistales # "twitter username"
   vimeo:
   wordpress:
   youtube:
